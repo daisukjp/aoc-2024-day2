@@ -1,1 +1,7 @@
-# aoc-2024-day2
+# AoC 2024 Day 2
+
+Run:
+
+```bash
+node day2.js
+```
